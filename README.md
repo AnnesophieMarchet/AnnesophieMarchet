@@ -2,13 +2,13 @@
 
 ## Qui suis-je ? 🙋‍♀️
 
-Je suis une développeuse passionnée qui a commencé à coder il y a 6 mois après une carrière de 10 ans en tant que technicienne dans l'industrie pharmaceutique. J'apprends actuellement JavaScript, React, TypeScript et je suis déterminée à devenir une experte dans ces technologies. Mon objectif est d'acquérir une solide maîtrise des concepts de programmation et de contribuer à des projets open-source.
+Je suis une développeuse passionnée qui a commencé à coder il y a 1 an après une carrière de 10 ans en tant que technicienne dans l'industrie pharmaceutique. J'apprends actuellement Java, Angular et TypeScript et je suis déterminée à devenir une experte dans ces technologies. Mon objectif est d'acquérir une solide maîtrise des concepts de programmation et de contribuer à des projets open-source.
 
 ## Compétences 🛠️
 
 - **Langages de programmation :**
   - JavaScript
-  - HTML/CSS
+  - Java
   - PHP
 
 - **Frameworks et bibliothèques :**
@@ -16,12 +16,14 @@ Je suis une développeuse passionnée qui a commencé à coder il y a 6 mois apr
   - TailwindCSS
   - TypeScript
   - Express.js
-  - Next.js
+  - Angular
+  - Spring
 
 - **Outils :**
-  - Git & GitHub
+  - GitHub
   - VS Code
-  - Linter: ESLint
+  - Eclipse
+  - Linter
 
 ## Projets 🚀
 
