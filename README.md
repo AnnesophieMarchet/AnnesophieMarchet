@@ -26,18 +26,18 @@ Je suis une développeuse passionnée qui a commencé à coder il y a 2 ans apr�
 
 ## Projets 🚀
 
+### SaniFllet Application de gestion de flotte d' ambulances
+### Externatic Application carrière 
 ### Pokedex
-### Unicorn Quiz 
 ### Hackathon sur le thème  "Nature et déconnexion"
 ### Mon Portfolio 
 [Portfolio d'Anne-Sophie Marchet](https://portfolio-annesophie-marchet.vercel.app/)
 
 ## Objectifs 🎯
 
-- Améliorer mes compétences en JavaScript et React
+- Améliorer mes compétences en Java et Angular
 - Contribuer à des projets open-source
-- Explorer d'autres frameworks et bibliothèques
-- Développer des applications web interactives et performantes
+- Développer des applications web et logiciel interactifs et performants
 
 ## Me contacter 📬
 
